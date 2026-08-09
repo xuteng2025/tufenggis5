@@ -27,7 +27,7 @@ class Spider(Spider):
     def destroy(self):
         pass
 
-    host='http://v.rbotv.cn'
+    host='https://www.xiguaikan.cc/'
 
     headers = {
         'User-Agent': 'okhttp-okgo/jeasonlzy',
